@@ -1,2 +1,5 @@
 # workshinone.github.io
-personal site
+
+theme: jekyll-theme-minimal
+title: Homepage
+description: personal site
